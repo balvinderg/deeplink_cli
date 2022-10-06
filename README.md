@@ -15,4 +15,5 @@ Latest release can be found in [release](https://github.com/balvinderg/deeplink_
 
 # Usage
 To use Deeplink Helper download dh from the release folder and add it to path.
+Then go to the path where dh is downloaded and run command chmod a+x dh.
 Then run command dh
